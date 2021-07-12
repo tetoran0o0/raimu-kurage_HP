@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/raimu-kurage_HP/static/css/main.a617e044.chunk.css",
+    "main.js": "/raimu-kurage_HP/static/js/main.7c921927.chunk.js",
+    "main.js.map": "/raimu-kurage_HP/static/js/main.7c921927.chunk.js.map",
+    "runtime-main.js": "/raimu-kurage_HP/static/js/runtime-main.4a39a4da.js",
+    "runtime-main.js.map": "/raimu-kurage_HP/static/js/runtime-main.4a39a4da.js.map",
+    "static/js/2.f84de42f.chunk.js": "/raimu-kurage_HP/static/js/2.f84de42f.chunk.js",
+    "static/js/2.f84de42f.chunk.js.map": "/raimu-kurage_HP/static/js/2.f84de42f.chunk.js.map",
+    "static/js/3.f4fb31e0.chunk.js": "/raimu-kurage_HP/static/js/3.f4fb31e0.chunk.js",
+    "static/js/3.f4fb31e0.chunk.js.map": "/raimu-kurage_HP/static/js/3.f4fb31e0.chunk.js.map",
+    "index.html": "/raimu-kurage_HP/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/raimu-kurage_HP/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f84de42f.chunk.js.LICENSE.txt": "/raimu-kurage_HP/static/js/2.f84de42f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/raimu-kurage_HP/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a39a4da.js",
+    "static/js/2.f84de42f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7c921927.chunk.js"
+  ]
+}
